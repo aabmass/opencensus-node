@@ -41,7 +41,7 @@
     "access": "public"
   },
   "devDependencies": {
-    "@types/node": "10.17.60",
+    "@types/node": "16.11.62",
     "lerna": "^2.11.0",
     "typedoc": "0.17.0",
     "typescript": "3.9.10"

@@ -51,7 +51,7 @@
   "devDependencies": {
     "@types/mocha": "7.0.1",
     "@types/nock": "10.0.3",
-    "@types/node": "10.17.60",
+    "@types/node": "16.11.62",
     "codecov": "3.6.5",
     "gts": "1.0.0",
     "mocha": "7.1.0",
