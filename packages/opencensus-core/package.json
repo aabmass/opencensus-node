@@ -52,13 +52,13 @@
     "access": "public"
   },
   "devDependencies": {
-    "@types/continuation-local-storage": "3.2.1",
+    "@types/continuation-local-storage": "3.2.7",
     "@types/mocha": "8.2.3",
     "@types/node": "10.17.60",
-    "@types/once": "1.4.0",
-    "@types/semver": "7.3.7",
-    "@types/shimmer": "1.0.2",
-    "@types/uuid": "7.0.5",
+    "@types/once": "1.4.4",
+    "@types/semver": "7.5.8",
+    "@types/shimmer": "1.2.0",
+    "@types/uuid": "7.0.8",
     "codecov": "3.8.3",
     "gts": "1.1.2",
     "intercept-stdout": "0.1.2",
