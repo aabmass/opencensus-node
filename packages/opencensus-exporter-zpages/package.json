@@ -50,7 +50,7 @@
     "access": "public"
   },
   "devDependencies": {
-    "@opencensus/nodejs": "^0.1.0",
+    "@opencensus/nodejs": "0.1.0",
     "@types/ejs": "3.0.7",
     "@types/express": "4.17.13",
     "@types/express-serve-static-core": "4.17.24",
